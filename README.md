@@ -9,8 +9,6 @@
 - 💡 Design intuitive and user-friendly interfaces
 - 🌐 Collaborate with cross-functional teams to bring ideas to life
 
-💼 Currently, I work at ElephantApps where I contribute to building cutting-edge iOS apps. My journey as a developer started 4 years ago, and I'm constantly learning and staying up-to-date with the latest in iOS development.
-
 📫 Let's connect and collaborate! Feel free to reach out to me here on GitHub or LinkedIn.
 
 Happy coding! 🚀
